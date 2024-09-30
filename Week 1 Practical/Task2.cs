@@ -1,12 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Week_1_Practical
+﻿namespace Week_1_Practical
 {
-    internal class Task2
+    class Task2
     {
+        Console.Writeline("Please enter your age: ");
+        string input = Console.ReadLine();
+        int age;
+
+        
+        if(age >= 0 && <= 110)
+        {
+            string category = age
+        }
     }
 }
